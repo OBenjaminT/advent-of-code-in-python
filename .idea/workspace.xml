@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60e13276-a385-4927-be7c-6432a336c8ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Advent of code" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/2018" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1182" />
+    <option name="y" value="-18" />
+    <option name="width" value="1390" />
+    <option name="height" value="1836" />
+  </component>
+  <component name="ProjectId" id="1Ul6NH4YX1PeupEZXammliCZGnz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learning things" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TURNERO\PycharmProjects\Advent of code\2019\Day 5\Part 2" />
+      <recent name="C:\Users\TURNERO\PycharmProjects\Advent of code\2019\Day 8\Part 1" />
+      <recent name="C:\Users\TURNERO\PycharmProjects\Advent of code\2019\Day 5\Part 1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.program (2)">
+    <configuration name="program 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Advent of code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/Day 8/Part 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/Day 8/Part 1/program 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Advent of code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/Day 6/Part 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\TURNERO\PycharmProjects\Advent of code\2019\Day 8\Part 1\program 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Advent of code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/Day 8/Part 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/Day 8/Part 1/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Advent of code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/Day 5/Part 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/Day 5/Part 2/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Advent of code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019/Day 8/Part 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019/Day 8/Part 2/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.program (1)" />
+      <item itemvalue="Python.program 2" />
+      <item itemvalue="Python.program 2 (1)" />
+      <item itemvalue="Python.program" />
+      <item itemvalue="Python.program (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program (2)" />
+        <item itemvalue="Python.program" />
+        <item itemvalue="Python.program 2 (1)" />
+        <item itemvalue="Python.program 2" />
+        <item itemvalue="Python.program (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60e13276-a385-4927-be7c-6432a336c8ef" name="Default Changelist" comment="" />
+      <created>1575645882214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575645882214</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="115" key="#Notifications" timestamp="1575919126325">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="277" y="115" key="#Notifications/0.0.1368.912@0.0.1368.912" timestamp="1575919126325" />
+    <state width="1346" height="312" key="GridCell.Tab.0.bottom" timestamp="1575923693292">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1346" height="312" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1575923693292" />
+    <state width="1346" height="312" key="GridCell.Tab.0.center" timestamp="1575923693292">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1346" height="312" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1575923693292" />
+    <state width="1346" height="312" key="GridCell.Tab.0.left" timestamp="1575923693292">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1346" height="312" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1575923693292" />
+    <state width="1346" height="312" key="GridCell.Tab.0.right" timestamp="1575923693292">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="1346" height="312" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1575923693292" />
+    <state x="194" y="99" key="SettingsEditor" timestamp="1575923151766">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="194" y="99" key="SettingsEditor/0.0.1368.912@0.0.1368.912" timestamp="1575923151766" />
+  </component>
+</project>
